@@ -1,0 +1,10 @@
+{
+  "name": "ai-decision-making-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jimmyceroneii/ai-decision-making-tools.git",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
