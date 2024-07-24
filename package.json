@@ -6,5 +6,8 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "replicate": "^0.31.1"
   }
 }

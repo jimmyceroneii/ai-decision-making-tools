@@ -1,0 +1,29 @@
+[ ] Meditate
+
+Write down the goal
+
+Write your feelings
+
+Write / draw the problem
+
+Write down questions
+
+Write down assumptions
+
+Write down what’s been tried so far
+
+Consider next actions
+
+Is this the simplest possible case?
+
+Yes. Do it!
+
+No
+
+Set a timer for 15 mins and generate possible solutions
+
+Take a walk.
+
+Reach out to get feedback
+
+Above is a problem solving process. I want you to ask me a question for each step in the process and walk me through it one step at a time.
